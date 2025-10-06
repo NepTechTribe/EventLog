@@ -10,6 +10,6 @@ See `CONTRIBUTING.md` for the schema and how to make a PR.
 
 1. Fork the repo.
 2. Add a new entry to `data/events.json` following the schema.
-3. Open a Pull Request.
+3. Open a Pull Request.  
 
 Thanks for contributing!
