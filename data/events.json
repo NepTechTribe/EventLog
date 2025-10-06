@@ -1,12 +1,12 @@
 [
   {
-    "id": "event-20251006-community-meetup",
-    "title": "Community Meetup",
-    "date": "2025-10-06",
-    "location": "City Library",
-    "description": "A meetup to discuss community projects.",
-    "facebook_post": "https://www.facebook.com/yourpage/posts/1234567890",
-    "contributor": "alice",
-    "tags": ["meetup","community"]
+    "id": "event-20240823-starting-with-canva",
+    "title": "Starting with Canva",
+    "date": "2024-08-23",
+    "location": "American Corner Bhairahawa, Bhairahawa",
+    "description": "A basic Canva Training for beginners.",
+    "facebook_post": "https://www.facebook.com/neptechtribe/posts/pfbid0QbVxTPhPETCf8CiGAWk6q8xjB7SgfS6AmyhikWprxuZrKqpBVKKkzjoHrrijRwD6l",
+    "contributor": "devsdenepal",
+    "tags": ["session","graphicdesigning"]
   }
 ]
