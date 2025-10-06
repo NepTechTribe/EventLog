@@ -1,0 +1,14 @@
+{
+  "name": "community-event-log",
+  "version": "0.1.0",
+  "description": "List community events with links to original Facebook posts (Hacktoberfest-friendly).",
+  "main": "scripts/validate.js",
+  "scripts": {
+    "validate": "node scripts/validate.js data/events.json"
+  },
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}

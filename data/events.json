@@ -1,0 +1,12 @@
+[
+  {
+    "id": "event-20251006-community-meetup",
+    "title": "Community Meetup",
+    "date": "2025-10-06",
+    "location": "City Library",
+    "description": "A meetup to discuss community projects.",
+    "facebook_post": "https://www.facebook.com/yourpage/posts/1234567890",
+    "contributor": "alice",
+    "tags": ["meetup","community"]
+  }
+]
