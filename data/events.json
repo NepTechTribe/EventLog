@@ -8,5 +8,15 @@
     "facebook_post": "https://www.facebook.com/neptechtribe/posts/pfbid0QbVxTPhPETCf8CiGAWk6q8xjB7SgfS6AmyhikWprxuZrKqpBVKKkzjoHrrijRwD6l",
     "contributor": "devsdenepal",
     "tags": ["session","graphicdesigning"]
+  },
+  {
+    "id": "event-20251014-starting-with-hacktoberfest",
+    "title": "Starting with Hacktoberfest",
+    "date": "2025-10-14",
+    "location": "Google Meet",
+    "description": "How to start with Hacktoberfest 2025.", 
+    "facebook_post": "https://www.facebook.com/photo?fbid=840656495579550&set=a.267570776221461",
+    "contributor": "shreesha aatreya  ",
+    "tags": ["session","hacktoberfest" ,"opensource" ,"hacktoberfest2025"]
   }
 ]
